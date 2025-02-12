@@ -1,0 +1,4 @@
+- Spring Boot (revisar)
+- Lombok (revisar)
+- JPA/Hibernate (aprendizado)
+- PostgresSQL
