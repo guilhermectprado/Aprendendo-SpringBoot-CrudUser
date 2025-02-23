@@ -32,3 +32,9 @@ public class UserService {
     }
 
 }
+
+// Geralmente contém a lógica da aplicação, as regras de negócio, definidas pelos PO, chefes, geralmente concentradas nas classes de Services.
+
+// Controller, só recebe requisição e passa o trabalho lógico para Service.
+
+// Na Service é onde se faz o acesso aos repository, as classes de conexao ao banco de dados e demais processamentos.

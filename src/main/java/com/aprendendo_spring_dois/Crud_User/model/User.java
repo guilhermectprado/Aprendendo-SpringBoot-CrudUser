@@ -7,7 +7,7 @@ import lombok.NoArgsConstructor;
 import lombok.Setter;
 
 @Entity // indica que é uma entidade representando uma tabela no banco
-@Table(name = "users") // deifine o nome da tabela para Users
+@Table(name = "users") // define o nome da tabela para Users
 @Getter @Setter
 public class User {
     @Id
